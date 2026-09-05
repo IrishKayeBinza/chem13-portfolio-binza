@@ -1,0 +1,25 @@
+================================================================================
+AI USE DISCLOSURE STATEMENT
+Course: CHEM 13 | Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 1
+Student Name: Binza, Irish Kaye O.
+Year & Block: 2A
+Department: Department of Chemical Engineering, Bicol University
+================================================================================
+
+AI Tool Used:
+- Google Gemini AI (Gemini 1.5 Pro / Advanced)
+
+Purpose and Nature of AI Assistance:
+1. Data Extraction & Structuring:
+   - I provided Gemini AI with specific, pre-selected primary literature, textbook excerpts, PubChem records, and SDS documentation (including NCBI PubChem summaries, journal articles by Caterina et al., 1997, and Klein et al., 2019, and excerpts from the Handbook of Polyethylene).
+   - I instructed Gemini AI to pull and synthesize specific chemical parameters from these uploaded references, such as IUPAC names, molecular formulas, molar masses, solubility thresholds, melting points, and physical properties for my three chosen organic compounds: Dopamine, Capsaicin, and Polyethylene.
+
+2. Content Formatting & Outline Drafting:
+   - I asked the AI to organize the extracted data into a structured draft format following the specific section guidelines and Caffeine example provided in the CHEM 13 activity instructions.
+   - The AI assisted in polishing the wording for clarity and conciseness, specifically framing the "Chemical Engineering Connection" for each compound (e.g., supercritical fluid extraction parameters and bioprocess CSTR mechanics).
+
+Independent Verification & Student Responsibility:
+- I independently verified every structural formula, chemical property, numerical value, GHS safety statement, and APA reference retrieved by the AI against authoritative source materials (PubChem, ACS/Elsevier journal articles, and safety data sheets).
+- I take full responsibility for the chemical accuracy, formatting, references, and final interpretation of the data presented in all submitted infographic files and reference repositories.
+================================================================================
